@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gambar": "img/muslim.jpg",
+    "nama": "Muslim",
+    "harga": "Rp. 215.000",
+    "ukuran": "XL/L/M",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:08354738598 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "img/polos.jpg",
+    "nama": "Polos",
+    "harga": "Rp. 55.000",
+    "ukuran": "XL/L/M",
+    "contact": "<p> Email:workwear.com </p> <p> Phone:+62 89123456780 </p> <p>Address:Jl.Tunjungan No.0 Surabaya </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "img/sweater.jpg",
+    "nama": "Sweater",
+    "harga": "Rp. 175.000",
+    "ukuran": "XL/L/M/S",
+    "contact": "<p> Email:workwear.com </p> <p> Phone:+62 89123456780 </p> <p>Address:Jl.Tunjungan No.0 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "img/vest.jpg",
+    "nama": "Vest ",
+    "harga": "Rp. 135.000",
+    "ukuran": "XL/L/M",
+    "contact": "<p> Email:workwear.com </p> <p> Phone:+62 89123456780 </p> <p>Address:Jl.Tunjungan No.0 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "img/dress.jpg",
+    "nama": "Dress ",
+    "harga": "Rp. 155.000",
+    "ukuran": "L/M",
+    "contact": "<p> Email:workwear.com </p> <p> Phone:+62 89123456780 </p> <p>Address:Jl.Tunjungan No.0 Surabaya </p>"
+  }
+]
